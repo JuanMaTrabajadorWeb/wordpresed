@@ -75,7 +75,7 @@ html {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	font-size: 62.5%;
+	font-size: 120.5%;
 	overflow-y: scroll;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
@@ -484,7 +484,7 @@ select,
 textarea {
 	background-color: #f7f7f7;
 	border-radius: 0;
-	font-size: 16px;
+	font-size: 32px;
 	font-size: 1.6rem;
 	line-height: 1.5;
 	margin: 0;
@@ -706,7 +706,7 @@ a:focus {
 	color: #707070;
 	color: rgba(51, 51, 51, 0.7);
 	font-family: "Noto Sans", sans-serif;
-	font-size: 12px;
+	font-size: 24px;
 	font-size: 1.2rem;
 	font-weight: 400;
 	line-height: 1.5;
@@ -1100,7 +1100,7 @@ a:focus {
 
 .image-navigation a,
 .comment-navigation a {
-	color: #707070;
+	color: #00FF00;
 	color: rgba(51, 51, 51, 0.7);
 }
 
@@ -1309,15 +1309,15 @@ img.aligncenter {
 
 .site-title {
 	font-family: "Noto Sans", sans-serif;
-	font-size: 22px;
-	font-size: 2.2rem;
-	font-weight: 700;
+	font-size: 32px;
+	font-size: 4.4rem; 
+	font-weight: 800;
 	line-height: 1.3636;
 	margin-bottom: 0;
 }
 
 .custom-logo {
-	max-height: 84px;
+	max-height: 150px;
 	width: auto;
 }
 
@@ -1361,7 +1361,7 @@ img.aligncenter {
 .widget input,
 .widget select,
 .widget textarea {
-	font-size: 16px;
+	font-size: 32px;
 	font-size: 1.6rem;
 	line-height: 1.5;
 }
@@ -1869,8 +1869,8 @@ a.post-thumbnail:focus {
 	color: #707070;
 	color: rgba(51, 51, 51, 0.7);
 	font-family: "Noto Sans", sans-serif;
-	font-size: 12px;
-	font-size: 1.2rem;
+	font-size: 24px;
+	font-size: 2.4rem;
 	line-height: 1.5;
 	padding: 3.8461% 7.6923%;
 }
@@ -2008,8 +2008,8 @@ a.post-thumbnail:focus {
 
 .page-title {
 	font-family: "Noto Serif", serif;
-	font-size: 18px;
-	font-size: 1.8rem;
+	font-size: 30px;
+	font-size: 3.0rem;
 	line-height: 1.3333;
 }
 
